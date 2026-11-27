@@ -13,7 +13,7 @@ Teste funcional · BDD/Gherkin · Git e GitHub · JavaScript · SQL · Teste de 
 - [qa-documentacao](https://github.com/mariarossari/qa-documentacao): casos de teste, cenários em Gherkin, bug reports e resumos de estudo
 
 ## Procuro
-Primeira oportunidade como **QA Júnior**. Belém, Pará · aberta a trabalho remoto.
+Buscando por novas oportunidades como **QA Júnior**. Belém, Pará · aberta a trabalho remoto.
 
 ## Idiomas
 - Inglês: B2
