@@ -1,6 +1,6 @@
 # Olá, sou a Maria 👋
 
-Fisioterapeuta especialista em urgência e emergência, em transição para a área de QA (Quality Assurance).
+Analista de QA Júnior (Quality Assurance).
 
 ## Estou estudando
 Teste funcional · BDD/Gherkin · Git e GitHub · JavaScript · SQL · Teste de API
