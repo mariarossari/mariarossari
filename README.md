@@ -2,13 +2,6 @@
 
 Analista de QA Júnior (Quality Assurance).
 
-## Estou estudando
-Teste funcional · BDD/Gherkin · Git e GitHub · JavaScript · SQL · Teste de API
-
-## Em andamento
-- Plano de estudos de QA Júnior em 13 semanas
-- Documentando casos de teste, cenários em Gherkin e bug reports em prática no Sauce Demo e DemoQA
-
 ## Meus projetos
 - [qa-documentacao](https://github.com/mariarossari/qa-documentacao): casos de teste, cenários em Gherkin, bug reports e resumos de estudo
 
